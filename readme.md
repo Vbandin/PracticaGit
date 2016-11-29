@@ -12,7 +12,7 @@ No, porque la rama "styled" compartia los mismos archivos y las mismas lineas qu
 
 - El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
 
-Si, porque ambas ramas tenian distinta información en todas las lineas.
+Si, porque los archivos de las dos ramas tenian distinta información en todas las lineas.
 
 - El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
 
@@ -20,7 +20,7 @@ No, porque previamente (en el paso 13) ya se habia hecho un merge de master a st
 
 - ¿Qué comando o comandos utilizaste en el paso 25?
 
-git graph, porque previamente cree ese alias para evitar teclear el comando completo: git log --graph --decorate --pretty=oneline
+git graph, porque previamente creé ese alias para evitar teclear el comando completo: git log --graph --decorate --pretty=oneline
 
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 
